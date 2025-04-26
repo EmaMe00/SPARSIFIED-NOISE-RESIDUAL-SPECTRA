@@ -1,0 +1,2 @@
+Final Test Loss: 0.0313, Final Test Accuracy: 99.60%
+Total training time: 0 days, 0 hours, 15 minutes, 6 seconds
