@@ -19,10 +19,10 @@ The following command is an example of how to launch every script. The parameter
 # Pre-processing script
 python processing_script.py
 
-# Training Script
+# Training script
 python main.py 
 
-# Inference Script
+# Inference script
 python inference.py 
 ```
 
