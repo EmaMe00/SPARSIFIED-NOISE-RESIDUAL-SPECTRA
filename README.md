@@ -13,7 +13,7 @@ We provide a set of pre-processing scripts to generate the sparsified spectra. T
 We also provide the Lightweight NN (and its weights).
 The folder "LightweightNN/TRAINED_MODEL_RESULTS" contains all the numerical results discussed in the paper.
 
-The following command is an example of how to launch every script. The parameters are set from within the script.
+The following command is an example of how to launch every script. The parameters are set within the script.
 
 ```
 # Pre-processing script
