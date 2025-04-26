@@ -1,0 +1,14 @@
+Accuracy: 0.9700 
+True Negatives: 290 
+False Positives: 10 
+False Negatives: 8 
+True Positives: 292 
+Error Rate (ER): 0.0300 
+Precision for Positive Class: 0.9669 
+Precision for Negative Class: 0.9732 
+True Positive Rate (Recall for Positive Class): 0.9733 
+True Negative Rate (Recall for Negative Class): 0.9667 
+False Positive Rate (FPR): 0.0333 
+False Negative Rate (FNR): 0.0267 
+F-Score for Positive Class: 0.9701 
+F-Score for Negative Class: 0.9699 
