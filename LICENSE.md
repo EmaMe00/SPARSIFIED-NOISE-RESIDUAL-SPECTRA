@@ -1,4 +1,4 @@
-Copyright (c) [2025] [Angelo Coluccia and Emanuele Mele from University of Salento]
+Copyright (c) [2025] []
 
 Permission is hereby granted, free of charge, to use, reproduce, and modify this software and its documentation solely for informational, academic, and nonprofit purposes, provided that:
 
